@@ -16,7 +16,7 @@
  <br>
   
   
-* 👨‍💻 I’m Frond End Developer and currently learning Full Stack Web Developement.
+* 👨‍💻 I’m Aspiring Front End Developer and currently learning Full Stack Web Developement.
 * Checkout my blogs :<br>
   1] <a href="https://rohan108dev.hashnode.dev/what-the-heck-is-debouncing-in-javascript" target="_blank"> Debouncing in JavaScript </a> <br>
   2] <a href="https://rohan108dev.hashnode.dev/some-insights-of-usestate-useeffect-and-stale-closures" target="_blank"> What is stale closures in React </a><br>
@@ -25,6 +25,12 @@
   
   
 <br>
+  
+ * Solved more than 100 DSA problems in leetcode => https://leetcode.com/Rohan108/
+ * geeksForGeeks Profile => https://auth.geeksforgeeks.org/user/mondalrohan108/practice/
+ * 2⭐️ at codeChef => https://www.codechef.com/users/rohan108 
+  
+  
 
 ## 🧰 My Tech Toolbox
 
@@ -35,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"width="50" height="50" />
+
   </p>
 <br>  
  

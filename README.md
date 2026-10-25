@@ -1,47 +1,47 @@
-<div align="center">
+# Rohan Mondal - Senior Frontend Engineer
 
-<br>
+Building scalable React and TypeScript platforms, design systems, and complex product workflows.
 
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rohan Mondal](https://rohanspage.netlify.app/)
-  </div>
-  <div align=center>
-  <a href="https://www.linkedin.com/in/rohanmondal/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/RohanMo33437915"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
-  <br><br>
- 
-</div>
-  <p>All my work life at one place:<p>
-  <a href="https://peerlist.io/rohanmond"><img src="https://github.com/Siddhant-K-code/Siddhant-K-code/raw/master/PL%20Logo%20-%20Primary.svg"></a>
-  <br>
- <br>
-  
-  
-* 👨‍💻 I’m Aspiring Front End Developer and currently learning Full Stack Web Developement.
-* Checkout my blogs :<br>
-  1] <a href="https://rohan108dev.hashnode.dev/what-the-heck-is-debouncing-in-javascript" target="_blank"> Debouncing in JavaScript </a> <br>
-  2] <a href="https://rohan108dev.hashnode.dev/some-insights-of-usestate-useeffect-and-stale-closures" target="_blank"> What is stale closures in React </a><br>
-  3]<a href="https://rohan108dev.hashnode.dev/what-the-heck-is-execution-context-in-js-how-js-code-is-executing-under-the-hood" target="_blank"> Execution Context in JavaScript </a>
- 
-  
-  
-<br>
-  
- * Solved more than 100 DSA problems in leetcode => https://leetcode.com/Rohan108/
- * geeksForGeeks Profile => https://auth.geeksforgeeks.org/user/mondalrohan108/practice/
- 
-  
-  
+[LinkedIn](https://www.linkedin.com/in/rohanmondal/)
 
-## 🧰 My Tech Toolbox
+## About
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/>
+I am a frontend engineer with 4+ years of experience building production dashboards, low-code platforms, reusable component systems, and third-party integrations. I currently work at **Simpplr** as a Software Development Engineer, Frontend, and previously built high-volume fintech experiences at **Razorpay**.
 
-  </p>
-<br>  
- 
+I focus on frontend architecture that stays predictable as products grow: schema-driven interfaces, complex state and form workflows, accessible components, strong test coverage, and pragmatic modernization of established codebases.
+
+## Experience highlights
+
+- Architected schema-driven dashboard foundations using Zustand and React Hook Form for predictable view and edit workflows.
+- Delivered configurable sections, drag-and-drop experiences, widget lifecycle APIs, autosave, edit locking, and conflict handling.
+- Led reusable low-code form and hybrid-tile architecture with Craft.js, dynamic data binding, and API-powered inputs.
+- Built integrations for platforms including Jira, Workday, and Asana, covering real-time retrieval and submission workflows.
+- Supported design-system adoption and Webpack-to-Vite and Yarn-to-pnpm migrations while mentoring teammates through architecture reviews and debugging.
+- Delivered systems with 85-90% test coverage and earned team recognition for a major dashboard release.
+- Built reliable merchant-facing payment and settlement interfaces at Razorpay in partnership with product and backend teams.
+
+## Core expertise
+
+- **Frontend:** React, TypeScript, JavaScript, Zustand, React Query
+- **Forms and platforms:** React Hook Form, React Final Form, Craft.js, schema-driven UI, drag-and-drop workflows
+- **Quality:** Jest, React Testing Library, accessibility, reusable component systems
+- **Modernization:** Vite, Webpack, Yarn, pnpm, frontend migrations
+- **Delivery:** API integrations, product collaboration, architecture reviews, mentoring
+
+## Selected work
+
+### [Frontend Switch OS](https://github.com/Rohanmond/progress-tracker)
+
+A full-stack interview preparation platform with a React and Vite client, Express API, PostgreSQL analytics, passwordless authentication, LeetCode verification, and CI quality gates. [Live demo](https://progress-tracker-client.vercel.app/)
+
+### [FashiFy](https://github.com/Rohanmond/FashiFy-react)
+
+A React e-commerce experience with product discovery, cart and wishlist management, payments, and pagination. [Live demo](https://fashi-fy-react.vercel.app/)
+
+### [BodyCompass](https://github.com/Rohanmond/BodyCompass)
+
+A native SwiftUI health-coaching product with HealthKit history, AI-assisted meal and progress analysis, multi-provider feedback, and a Node backend.
+
+## Connect
+
+Interested in building ambitious frontend platforms? [Connect with me on LinkedIn](https://www.linkedin.com/in/rohanmondal/).

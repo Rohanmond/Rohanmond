@@ -1,4 +1,4 @@
-# Rohan Mondal - Senior Frontend Engineer
+# Rohan Mondal - Software Engineer (Frontend)
 
 Building scalable React and TypeScript platforms, design systems, and complex product workflows.
 
